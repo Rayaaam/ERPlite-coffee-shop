@@ -11,7 +11,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "UI/UX ERP-lite Coffe Shop",
-  description: "Kelompok 2 C24 - Final Project",
+  description: "Kelompok 2 C24 | Final Project",
   generator: "",
   icons: {
     icon: [
